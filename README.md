@@ -7,7 +7,7 @@ A portfolio project demonstrating frontend development using HTML, CSS, and Java
 ## Overview
 This is a simple web-based expense tracker that allows users to add, view, and delete transactions while maintaining a real-time balance.
 
-## 📸 Preview
+## Preview
 
 <img width="536" height="761" alt="image" src="https://github.com/user-attachments/assets/e4ff7a41-045c-4db2-a0b9-2e2769f143d3" />
 
